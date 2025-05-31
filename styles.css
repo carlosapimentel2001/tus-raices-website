@@ -21,6 +21,10 @@ body {
 .header {
     margin-top: -100px; /* or -15px, adjust as needed */
 }
+html {
+    scroll-padding-top: 80px; /* Adjust based on your header height */
+    scroll-behavior: smooth;
+}
 
 .header {
     background-color: #F8F4E6;
