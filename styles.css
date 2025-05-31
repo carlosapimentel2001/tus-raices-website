@@ -60,10 +60,6 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
 } */
-.hero {
-    padding-top: 200px; /* adjust to match your header height */
-}
-
 
 .hero-content {
     position: relative;
