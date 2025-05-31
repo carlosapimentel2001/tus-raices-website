@@ -174,3 +174,13 @@ section h2 {
         font-size: 0.9rem;
     }
 }
+.hero {
+    background: url('assets/hero.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: #fff;
+}
+
