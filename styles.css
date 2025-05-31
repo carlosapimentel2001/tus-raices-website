@@ -19,6 +19,10 @@ body {
 
 /* Header */
 .header {
+    margin-top: -30px; /* or -15px, adjust as needed */
+}
+
+.header {
     background-color: #F8F4E6;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: fixed;
