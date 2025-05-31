@@ -175,12 +175,15 @@ section h2 {
     }
 }
 .hero {
-    background: url('assets/background potential 1.png') no-repeat center center/cover;
+    background: url('assets/background potential 1.png') no-repeat center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000; /* fallback color or match image */
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-    color: #fff;
 }
 
