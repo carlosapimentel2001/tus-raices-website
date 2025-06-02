@@ -106,7 +106,7 @@ html {
 }
 
 .hero .btn {
-    margin-top: 450px;
+    margin-top: 900px;
     z-index: 3; /* Optional, in case you want it even higher */
     position: relative; /* Required when using z-index */
 }
